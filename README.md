@@ -40,6 +40,3 @@ A Small Repository containing information/guides on Renders.
   1. `2` - Roughest: This preset is intensive/strong therefore producing large artifacts when interpolating.
   2. `13` - Smart: A Balance of `23` & `2`. Masks artifacts if needed.
   3. `23` - Smoothest: Smoothest Preset out of `2` & `13`. Doesn't have any artifact masking.
-
-
-
